@@ -32,7 +32,7 @@
   </div>
 
 
-   <h1> Thankyou, Happy Learning-ASWAD </h1>
+   <h1> Thankyou, Happy Learning-ASWAD-galaxy </h1>
 
 
   
